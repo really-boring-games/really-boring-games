@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <img src="https://github.com/really-boring-games/really-boring-games/blob/main/qrcode_really-boring-games.github.io.png?raw=true" width="300" height="auto" />
-</h3>
+[Landing Page](https://really-boring-games.github.io/really-boring-games/)</h3>
 
 <h1 align="center"></h1>
 
