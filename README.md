@@ -1,7 +1,7 @@
 <h1 align="center">Really Boring Games</h1>
 
 <h3 align="center">
-<img src="https://assets.codepen.io/6566924/02.jpeg" width="300" height="auto" />
+<img src="https://github.com/really-boring-games/really-boring-games/blob/main/qrcode_really-boring-games.github.io.png?raw=true" width="300" height="auto" />
 </h3>
 
 <h1 align="center"></h1>
