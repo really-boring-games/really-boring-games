@@ -7,17 +7,18 @@
 [Landing Page](https://really-boring-games.github.io/really-boring-games/)
 
 
-<h1 align="center"></h1>
+<h1 align="center">To have a look at this project live, scan the QR code with the camera on your phone and click the link when it pops up.</h1>
 
 <h2 align="center"> Immersive 3D experiences for WebXR compatible devices.</h2>
 
 <h1 align="center"></h1>
+***Is my device compatible?***
+[Click here to test your device](https://get.webgl.org/)
 
-> ### Is my device compatible?
->
-> #### Click [here](https://get.webgl.org/) to test your device
->
-> #### [Learn more](https://www.khronos.org/webgl/) about WebGL
+***wtf is a QR code?***
+Don't panic- it's a lot like a barcode.
+[Click through here](https://en.wikipedia.org/wiki/QR_code) to read more about how to make your device do the thing.
+[Learn more](https://www.khronos.org/webgl/) about WebGL
 
 <h1 align="center"></h1>
 
